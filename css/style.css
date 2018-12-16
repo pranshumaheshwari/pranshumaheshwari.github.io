@@ -388,8 +388,9 @@ textarea.input {
   list-style-type: none;
 }
 
-#commitee ul ol {
+#commitee ul ul {
   font-size: 0.8em;
+  list-style-type: circle;
 }
 
 #commitee ul li {
@@ -398,6 +399,22 @@ textarea.input {
 
 #commitee a:hover {
   cursor: pointer;
+}
+
+#callForPapers h5,h4{
+  font-size: 1.4em;
+}
+
+#callForPapers .impDates {
+  font-size: 1.3em;
+}
+
+#callForPapers p{
+  font-size: 1.2em;
+}
+
+#forums p {
+  font-size: 1.3em;
 }
 
 /*=========================================================
@@ -878,6 +895,10 @@ textarea.input {
 
 .contact-social a:hover {
   opacity: 0.8;
+}
+
+.contact p {
+  font-size: 1.2em;
 }
 
 /*=========================================================
