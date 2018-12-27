@@ -7,6 +7,18 @@
 	typography
 \*----------------------------*/
 
+.heading{
+  font-size: 2vw;
+}
+
+.nav-list{
+  font-size: 0.8vw;
+}
+
+.head{
+  max-height: 5vh;
+}
+
 .image{
   width: auto;
   height: auto;
